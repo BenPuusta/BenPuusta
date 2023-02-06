@@ -1,6 +1,9 @@
-Greetings, weary traveller. Rest your tired eyes and peruse a few of my projects at your leisure.
+Welcome GitHub repository containing my work at the School of Code and my own projects.
 
-Recent School of Code graduate. Brummie native, musician, gamer, language learner and Codesmith.
+
+
+About me: 
+Recent School of Code graduate - Brummie native, musician, gamer, language learner and Codesmith.
 
 
 Final Project is the month long final project at School of Code, using all of the skills learned throughout the course. 
