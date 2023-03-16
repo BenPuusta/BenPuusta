@@ -19,3 +19,13 @@
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [auth]: https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_de_Auth0.svg?style=for-the-badge&logo=auth0&logoColor=white
+
+## My projects
+
+- [FoodBankNetwork](https://foodbanknetwork.vercel.app/)
+
+Fully responsive foodbank finder app - using NextJS, Google Maps API, supabase, TypeScript, tailwind and others
+
+- [Planet Router](https://planets-rest.netlify.app/)
+
+One of my earliest hackathons - refactored to use React to send fetch requests to an express server RESTful API to a postgreSQL server hosting nice little facts about our solar system. 
