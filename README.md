@@ -1,3 +1,6 @@
+[![MasterHead](https://github.com/C0dingChris/C0dingChris/blob/main/Chris%20Sanger%20Banner.png)](https://google.com
+)
+
 <!-- ABOUT THE PROJECT -->
 # Welcome to Ben Puusta's GitHub!
 ## Recent [School of Code](https://www.linkedin.com/school/school-of-code/) graduate 🎆🎇 
