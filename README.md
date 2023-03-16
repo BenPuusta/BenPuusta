@@ -1,4 +1,4 @@
-[![MasterHead]()](https://google.com
+[![MasterHead](https://raw.githubusercontent.com/BenPuusta/BenPuusta/main/BenPBanner.png)](https://www.linkedin.com/in/ben-puusta/
 )
 
 <!-- ABOUT THE PROJECT -->
